@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8663cd103ced480bbbbb287eee423aea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dragPointTemplate: {fileID: 8856613767947407077, guid: 735989c92cbcc2b40b118b12730aec36,
+      type: 3}
+  - dragLineTemplate: {fileID: 2294479393285341234, guid: cbb1e984775e272479da287ecb6d930f,
+      type: 3}
+  - dragFaceTemplate: {fileID: 2283901367616361630, guid: 014952df8435cbd4ca97ad4a9f8fbcb1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
